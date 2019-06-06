@@ -2,11 +2,11 @@
 <html>
 <head>
 	<title>Purrfect Match</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 	
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="css/app.css">
-	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="app.css">
+	<link rel="stylesheet" type="text/css" href="animate.css">
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
 <body>
@@ -57,7 +57,7 @@
 		
 		<div class="container">
 			<div class="col-md-4">
-				<img src="img/image2.png" alt="">
+				<img src="image2.png" alt="">
 			</div>
 			<div class="col-md-8">
 				<h1>Find the best internship opportunities throughout 
@@ -94,13 +94,13 @@
 				particular field.</p>	
 			</div>
 			<div class="col-md-4">
-				<img src="img/image3.png" alt="">
+				<img src="image3.png" alt="">
 			</div>
 			
 		</div>
 	</section>
 	<section id="fifthsection">
-	<img src="img/image4.png" alt="">
+	<img src="image4.png" alt="">
 		<div class="container">
 			<p>The best opportunities are on Purrfect Match.So What are you looking for ?</p>
 		</div>
